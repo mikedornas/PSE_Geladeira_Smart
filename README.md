@@ -8,7 +8,7 @@ de 30 segundos.
 - Armazenar os horários em que a geladeira foi aberta e por quanto tempo, ao longo do
 dia. Com essas informações será possível entender o comportamento dos usuários.
 
-** Hardware
+**Hardware**
 
 ![alt text](https://github.com/mikedornas/PSE_Geladeira_Smart/blob/f677ce8a91d59ae8b4eea4821989dd1df2006ded/Figura%203.1%20-%20Circuito%20do%20ESP8266.png)
 
