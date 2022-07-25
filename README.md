@@ -10,4 +10,5 @@ dia. Com essas informações será possível entender o comportamento dos usuár
 
 ** Hardware
 
-![alt text](http://url/to/Figura 3.1 - Circuito do ESP8266.png)
+![alt text](https://github.com/mikedornas/PSE_Geladeira_Smart/blob/master/Figura 3.1 - Circuito do ESP8266.png.jpg?raw=true)
+
