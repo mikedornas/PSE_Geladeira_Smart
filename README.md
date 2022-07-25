@@ -9,6 +9,6 @@ de 30 segundos.
 dia. Com essas informações será possível entender o comportamento dos usuários.
 
 ** Hardware
-
+![alt text]([http://url/to/img.png](https://github.com/mikedornas/PSE_Geladeira_Smart/blob/main/Figura%203.1%20-%20Circuito%20do%20ESP8266.png))
 ![alt text](https://github.com/mikedornas/PSE_Geladeira_Smart/blob/master/Figura 3.1 - Circuito do ESP8266.png.jpg?raw=true)
 
