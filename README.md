@@ -7,3 +7,7 @@ de um alarme sonoro e notificações através de um aplicativo, caso fique assim
 de 30 segundos.
 - Armazenar os horários em que a geladeira foi aberta e por quanto tempo, ao longo do
 dia. Com essas informações será possível entender o comportamento dos usuários.
+
+** Hardware
+
+![alt text](http://url/to/Figura 3.1 - Circuito do ESP8266.png)
